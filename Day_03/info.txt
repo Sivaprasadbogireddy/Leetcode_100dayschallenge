@@ -1,0 +1,4 @@
+1. 1838. Frequency of the Most Frequent Element - https://leetcode.com/submissions/detail/1101239537/ 
+2. 1221. Split a String in Balanced Strings - https://leetcode.com/submissions/detail/1101665342/ 
+3. 1844. Replace All Digits with Characters - https://leetcode.com/submissions/detail/1101740839/ 
+
