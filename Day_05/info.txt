@@ -2,4 +2,4 @@ Day_05:
 
 1. 1029. Two City Scheduling - https://leetcode.com/submissions/detail/1102428277/ 
 2. 2032. Two Out of Three - https://leetcode.com/submissions/detail/1102991874/ 
-3. 2570. Merge Two 2D Arrays by Summing Values - 
+3. 2570. Merge Two 2D Arrays by Summing Values - https://leetcode.com/submissions/detail/1103007925/
