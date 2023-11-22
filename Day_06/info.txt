@@ -1,0 +1,5 @@
+Day_06:
+
+1. 1814. Count Nice Pairs in an Array - https://leetcode.com/submissions/detail/1103128702/
+2. 2433. Find The Original Array of Prefix Xor - https://leetcode.com/submissions/detail/1103587006/ 
+3. 383. Ransom Note - https://leetcode.com/submissions/detail/1103789288/
