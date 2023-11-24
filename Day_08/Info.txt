@@ -1,0 +1,4 @@
+Day_08
+
+1. 69. Sqrt(x) - https://leetcode.com/submissions/detail/1105134216/
+2. 1561. Maximum Number of Coins You Can Get - https://leetcode.com/submissions/detail/1105145287/  
