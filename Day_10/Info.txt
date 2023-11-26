@@ -1,0 +1,5 @@
+Day_10
+
+1. 1727. Largest Submatrix With Rearrangements - https://leetcode.com/submissions/detail/1106443668/
+2. 100139. Matrix Similarity After Cyclic Shifts - https://leetcode.com/contest/weekly-contest-373/submissions/detail/1106459983/ 
+3. 100134. Count Beautiful Substrings I - https://leetcode.com/contest/weekly-contest-373/submissions/detail/1106471522/
