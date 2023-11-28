@@ -1,0 +1,6 @@
+Day_12
+
+1. 1207. Unique Number of Occurrences - https://leetcode.com/submissions/detail/1107536644/
+2. 2325. Decode the Message - https://leetcode.com/submissions/detail/1107584775/ 
+3. 2341. Maximum Number of Pairs in Array - https://leetcode.com/submissions/detail/1107608884/ 
+4. 2147. Number of Ways to Divide a Long Corridor - https://leetcode.com/submissions/detail/1107818951/
