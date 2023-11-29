@@ -1,0 +1,5 @@
+Day_13
+
+1. 191. Number of 1 Bits - https://leetcode.com/submissions/detail/1108536039/
+2. 2351. First Letter to Appear Twice - https://leetcode.com/submissions/detail/1108383015/
+3. 2716. Minimize String Length - https://leetcode.com/submissions/detail/1108380621/
