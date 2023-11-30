@@ -1,0 +1,4 @@
+Day_14
+
+1. 1611. Minimum One Bit Operations to Make Integers Zero - https://leetcode.com/submissions/detail/1109279931/
+2. 929. Unique Email Addresses - https://leetcode.com/submissions/detail/1109024876/
