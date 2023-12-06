@@ -1,0 +1,6 @@
+Day_20
+
+1. 1716. Calculate Money in Leetcode Bank - https://leetcode.com/submissions/detail/1113289737/
+2. 2283. Check if Number Has Equal Digit Count and Digit Value - https://leetcode.com/submissions/detail/1113295808/
+3. 1935. Maximum Number of Words You Can Type - https://leetcode.com/submissions/detail/1113297708/
+4. 2053. Kth Distinct String in an Array - https://leetcode.com/submissions/detail/1113347785/
