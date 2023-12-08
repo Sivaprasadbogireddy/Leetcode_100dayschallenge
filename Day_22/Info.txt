@@ -1,0 +1,4 @@
+Day_22
+
+1. 606. Construct String from Binary Tree - https://leetcode.com/submissions/detail/1114715804/
+2. 1941. Check if All Characters Have Equal Number of Occurrences - https://leetcode.com/submissions/detail/1114714607/
