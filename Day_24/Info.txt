@@ -1,0 +1,5 @@
+Day_24
+
+1. 867. Transpose Matrix - https://leetcode.com/submissions/detail/1116066211/
+2. 349. Intersection of Two Arrays - https://leetcode.com/submissions/detail/1115964430/
+3. 1346. Check If N and Its Double Exist - https://leetcode.com/submissions/detail/1115960902/
