@@ -1,0 +1,7 @@
+Day_25
+
+1. 2960. Count Tested Devices After Test Operations - https://leetcode.com/contest/weekly-contest-375/submissions/detail/1116116968/
+2. 2961. Double Modular Exponentiation - https://leetcode.com/contest/weekly-contest-375/submissions/detail/1116133288/
+3. 2164. Sort Even and Odd Indices Independently - https://leetcode.com/submissions/detail/1116702659/
+4. 2706. Buy Two Chocolates - https://leetcode.com/submissions/detail/1116704945/
+5. 1287. Element Appearing More Than 25% In Sorted Array - https://leetcode.com/submissions/detail/1116880930/
