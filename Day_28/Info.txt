@@ -1,0 +1,4 @@
+Day_28
+
+1. 2482. Difference Between Ones and Zeros in Row and Column - https://leetcode.com/submissions/detail/1119263135/
+2. 1252. Cells with Odd Values in a Matrix - https://leetcode.com/submissions/detail/1119151751/
