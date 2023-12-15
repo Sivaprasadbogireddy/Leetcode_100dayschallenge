@@ -1,0 +1,4 @@
+Day_29:
+
+1. 1436. Destination City - https://leetcode.com/submissions/detail/1119953620/
+2. 1876. Substrings of Size Three with Distinct Characters - https://leetcode.com/submissions/detail/1119969572/
