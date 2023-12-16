@@ -1,0 +1,5 @@
+Day_30:
+
+1. 242. Valid Anagram - https://leetcode.com/submissions/detail/1120667980/
+2. 2475. Number of Unequal Triplets in Array - https://leetcode.com/submissions/detail/1120583841/
+3. 645. Set Mismatch - https://leetcode.com/submissions/detail/1120671175/
