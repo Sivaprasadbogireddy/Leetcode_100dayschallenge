@@ -1,0 +1,5 @@
+Day_31:
+
+1. 2353. Design a Food Rating System - https://leetcode.com/submissions/detail/1121532470/
+2. 2729. Check if The Number is Fascinating - https://leetcode.com/submissions/detail/1121554142/
+3. 1796. Second Largest Digit in a String - https://leetcode.com/submissions/detail/1121571392/
