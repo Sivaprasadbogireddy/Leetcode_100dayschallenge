@@ -1,0 +1,7 @@
+Day_34:
+
+1. 2706. Buy Two Chocolates - https://leetcode.com/submissions/detail/1123786101/
+2. 2951. Find the Peaks - https://leetcode.com/submissions/detail/1123777879/
+3. 1827. Minimum Operations to Make the Array Increasing - https://leetcode.com/submissions/detail/1123775563/
+4. 2778. Sum of Squares of Special Elements  - https://leetcode.com/submissions/detail/1123773717/ 
+5. 2956. Find Common Elements Between Two Arrays - https://leetcode.com/submissions/detail/1123772694/
