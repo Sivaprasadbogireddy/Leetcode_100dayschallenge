@@ -1,0 +1,5 @@
+Day_35:
+
+1. 1637. Widest Vertical Area Between Two Points Containing No Points - https://leetcode.com/submissions/detail/1124700288/
+2. 2405. Optimal Partition of String - https://leetcode.com/submissions/detail/1124502780/
+3. 1492. The kth Factor of n - https://leetcode.com/submissions/detail/1124493604/
