@@ -1,0 +1,4 @@
+Day_36:
+
+1. 1422. Maximum Score After Splitting a String - https://leetcode.com/submissions/detail/1125465875/
+2. 2506. Count Pairs Of Similar Strings - https://leetcode.com/submissions/detail/1125472595/
