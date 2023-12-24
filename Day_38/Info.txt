@@ -1,0 +1,4 @@
+Day_38:
+
+1. 1758. Minimum Changes To Make Alternating Binary String - https://leetcode.com/submissions/detail/1126999610/
+2. 2974. Minimum Number Game - https://leetcode.com/contest/weekly-contest-377/submissions/detail/1127033840/
