@@ -1,0 +1,4 @@
+Day_40:
+
+1. 1155. Number of Dice Rolls With Target Sum - https://leetcode.com/submissions/detail/1128484084/
+2. 290. Word Pattern - https://leetcode.com/submissions/detail/1128559131/
