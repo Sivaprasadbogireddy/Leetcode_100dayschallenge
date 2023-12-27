@@ -1,0 +1,5 @@
+Day_41:
+
+1. 1578. Minimum Time to Make Rope Colorful - https://leetcode.com/submissions/detail/1129278792/
+2. 2864. Maximum Odd Binary Number - https://leetcode.com/submissions/detail/1129344639/
+3. 2255. Count Prefixes of a Given String - https://leetcode.com/submissions/detail/1129347957/
