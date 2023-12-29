@@ -1,0 +1,5 @@
+Day_43:
+
+1. 1335. Minimum Difficulty of a Job Schedule - https://leetcode.com/submissions/detail/1130977113/
+2. 2176. Count Equal and Divisible Pairs in an Array - https://leetcode.com/submissions/detail/1131051228/ 
+3. 1475. Final Prices With a Special Discount in a Shop - https://leetcode.com/submissions/detail/1131058161/
