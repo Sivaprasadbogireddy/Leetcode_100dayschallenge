@@ -1,0 +1,4 @@
+Day_42:
+
+1. 1531. String Compression II - https://leetcode.com/submissions/detail/1130167112/
+2. 49. Group Anagrams - https://leetcode.com/submissions/detail/1130180024/
