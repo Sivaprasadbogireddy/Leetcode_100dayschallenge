@@ -1,0 +1,6 @@
+Day_45:
+
+1. 1624. Largest Substring Between Two Equal Characters - https://leetcode.com/submissions/detail/1132614951/
+2. 10031. Check if Bitwise OR Has Trailing Zeros - https://leetcode.com/contest/weekly-contest-378/submissions/detail/1132633576/
+3. 10032. Find Longest Special Substring That Occurs Thrice I- https://leetcode.com/contest/weekly-contest-378/submissions/detail/1132696696/
+4. 10033. Find Longest Special Substring That Occurs Thrice II - https://leetcode.com/contest/weekly-contest-378/submissions/detail/1132712760/
