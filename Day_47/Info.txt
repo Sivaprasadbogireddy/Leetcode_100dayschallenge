@@ -1,0 +1,3 @@
+Day_47:
+
+1. 2610. Convert an Array Into a 2D Array With Conditions - https://leetcode.com/submissions/detail/1134382296/
