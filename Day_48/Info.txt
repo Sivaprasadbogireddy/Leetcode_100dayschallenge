@@ -1,0 +1,3 @@
+Day_48:
+
+1. 2125. Number of Laser Beams in a Bank - https://leetcode.com/submissions/detail/1135142118/
