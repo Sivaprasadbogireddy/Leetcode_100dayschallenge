@@ -1,0 +1,3 @@
+Day_49:
+
+1. 2870. Minimum Number of Operations to Make Array Empty - https://leetcode.com/submissions/detail/1136222712/
