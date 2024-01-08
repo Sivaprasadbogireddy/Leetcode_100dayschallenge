@@ -1,0 +1,6 @@
+Day_52:
+
+1. 446. Arithmetic Slices II - Subsequence - https://leetcode.com/submissions/detail/1139206431/
+2. 413. Arithmetic Slices - https://leetcode.com/submissions/detail/1139204070/
+3. 10035. Maximum Area of Longest Diagonal Rectangle - https://leetcode.com/contest/weekly-contest-379/submissions/detail/1139056460/
+4. 10037. Maximum Size of a Set After Removals - https://leetcode.com/contest/weekly-contest-379/submissions/detail/1139098601/
