@@ -1,0 +1,5 @@
+Day_59:
+
+1. 1657. Determine if Two Strings Are Close - https://leetcode.com/submissions/detail/1145646114/
+2. 3005. Count Elements With Maximum Frequency - https://leetcode.com/contest/weekly-contest-380/submissions/detail/1145517280/
+3. 3006. Find Beautiful Indices in the Given Array I - https://leetcode.com/contest/weekly-contest-380/submissions/detail/1145524686/
