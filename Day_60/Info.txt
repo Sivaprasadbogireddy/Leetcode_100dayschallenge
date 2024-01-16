@@ -1,0 +1,3 @@
+Day_60:
+
+1. 2225. Find Players With Zero or One Losses - https://leetcode.com/submissions/detail/1146560916/
