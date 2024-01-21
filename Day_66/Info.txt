@@ -1,0 +1,6 @@
+Day_66:
+
+1. 198. House Robber - https://leetcode.com/submissions/detail/1152090969/
+2. 3014. Minimum Number of Pushes to Type Word I - https://leetcode.com/contest/weekly-contest-381/submissions/detail/1152142754/
+3. 3015. Count the Number of Houses at a Certain Distance I - https://leetcode.com/contest/weekly-contest-381/submissions/detail/1152150872/
+4. 3016. Minimum Number of Pushes to Type Word II - https://leetcode.com/contest/weekly-contest-381/submissions/detail/1152161286/
