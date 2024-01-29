@@ -1,0 +1,3 @@
+Day_71:
+
+1. 576. Out of Boundary Paths - https://leetcode.com/submissions/detail/1157485542/
