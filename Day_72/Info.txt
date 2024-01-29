@@ -1,0 +1,3 @@
+Day_72:
+
+1. 629. K Inverse Pairs Array - https://leetcode.com/submissions/detail/1158507261/
